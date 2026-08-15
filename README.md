@@ -36,11 +36,11 @@ Terraform Playbook для задания 1 доступен по ссылке:
 
 ![Скриншот статуса балансировщика](https://github.com/ice017-git/yandex-cloud-fault_tolerance/blob/main/img/balancer.png)
 
-**Скриншот 2: Скриншот целевой группы:**
+**Скриншот 2: целевой группы:**
 
 ![Скриншот целевой группы](https://github.com/ice017-git/yandex-cloud-fault_tolerance/blob/main/img/target_group.png)
 
-**Скриншот 3: Скриншот страницы**
+**Скриншот 3: страницы**
 
 ![Скриншот страницы](https://github.com/ice017-git/yandex-cloud-fault_tolerance/blob/main/img/screenshot.png)
 
